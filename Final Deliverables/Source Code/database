@@ -1,0 +1,12 @@
+CREATE TABLE REGTB (
+  NAME varchar(250) NOT NULL,
+
+  AGE varchar(250) NOT NULL,
+  EMAIL varchar(250) NOT NULL,
+  MOBILENO varchar(250) NOT NULL,
+  ADDRESS varchar(250) NOT NULL,
+   Zipcode varchar(250) NOT NULL,
+  USERNAME varchar(250) NOT NULL,
+  PASSWORD varchar(250) NOT NULL
+
+)
